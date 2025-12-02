@@ -11,9 +11,8 @@ Right now, I’m accumulating skills, strengthening discipline, and prepping for
 🛠️ Skillsets -
 HTML
 CSS
-Web Design
-JavaScript (Basic)
+JavaScript 
 Web Design
 Communication Skills
 Problem Solving
-Basic Networking and Database Concepts
+Networking and Database Concepts
