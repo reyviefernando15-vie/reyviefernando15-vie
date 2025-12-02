@@ -2,9 +2,7 @@
 ⚡ Hey, I'm Reyvie S. Fernando ⚡
 🧑‍💻 Future Problem Solver; BSIT Student; Future IT Specialist
 
-I’m not the best — yet.
-But I'm improving daily. I improve my building skills, pick things up quickly, and keep going until they work.
-Right now, I’m accumulating skills, strengthening discipline, and prepping for greater undertakings.
+I’m not the best — yet, but I’m developing every day.  I build steadily, pick things up quickly, and persevere until I get things perfect.  Right now, I’m acquiring stronger talents, building solid discipline, and preparing for greater prospects ahead.
 
 🎓 Certifications SQL and Relational Databases 101 https://courses.cognitiveclass.ai/certificates/8e12ef77af5449699c72cfcd4670fdaf
 
