@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**reyviefernando15-vie/reyviefernando15-vie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Hey, I'm Reyvie S. Fernando ⚡
+🧑‍💻 Future Problem Solver; BSIT Student; Future IT Specialist
 
-Here are some ideas to get you started:
+I’m not the best — yet.
+But I'm improving daily. I improve my building skills, pick things up quickly, and keep going until they work.
+Right now, I’m accumulating skills, strengthening discipline, and prepping for greater undertakings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Certifications SQL and Relational Databases 101 https://courses.cognitiveclass.ai/certificates/8e12ef77af5449699c72cfcd4670fdaf
+
+🛠️ Skillsets -
+HTML
+CSS
+Web Design
+JavaScript (Basic)
+Web Design
+Communication Skills
+Problem Solving
+Basic Networking and Database Concepts
