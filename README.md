@@ -6,7 +6,7 @@ I’m not the best — yet, but I’m developing every day.  I build steadily, p
 
 🎓 Certifications SQL and Relational Databases 101 https://courses.cognitiveclass.ai/certificates/8e12ef77af5449699c72cfcd4670fdaf
 
-🎓 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate: https://catalog-education.oracle.com/ords/certview/sharebadge?id=940DCA14A984F3165044D25F63B519A0DA6DF8D8DB7F62A5F4B13A8C080F2A46
+🎓 Infrastructure 2025 Certified AI Foundations Associate https://catalog-education.oracle.com/ords/certview/sharebadge id=940DCA14A984F3165044D25F63B519A0DA6DF8D8DB7F62A5F4B13A8C080F2A46
 🛠️ Skillsets -
 HTML
 CSS
