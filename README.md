@@ -8,7 +8,8 @@ I’m not the best — yet, but I’m developing every day.  I build steadily, p
 
 🎓 Certifications OCI AI Foundations Associate https://catalog-education.oracle.com/ords/certview/sharebadge?id=940DCA14A984F3165044D25F63B519A0DA6DF8D8DB7F62A5F4B13A8C080F2A46
 
-🎓 Oracle Data Platform 2025 Certified Foundations Associate https://catalog-education.oracle.com/pls/certview/sharebadge?id=856EA13337D1419FEA6CFEB59E16AF33F7F94297AEFAD562FA45764B161BED03
+🎓 Oracle Data Platform 2025 Certified Foundations Associate https://catalogeducation.oracle.com/pls/certview/sharebadgeid=856EA13337D1419FEA6CFEB59E16AF33F7F94297AEFAD562FA45764B161BED03
+
 🛠️ Skillsets -
 HTML
 CSS
