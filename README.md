@@ -10,6 +10,8 @@ I’m not the best — yet, but I’m developing every day.  I build steadily, p
 
 🎓 Oracle Data Platform 2025 Certified Foundations Associate https://catalog-education.oracle.com/pls/certview/sharebadge?id=856EA13337D1419FEA6CFEB59E16AF33F7F94297AEFAD562FA45764B161BED03
 
+    Oracle Cloud Infrastructure 2025 Certified Foundations Associate https://catalog-education.oracle.com/pls/certview/sharebadge?id=81252C43A1C366B831CE2D77FC1CFFD1178C9AFE8CB3A7B3D52941E584FBD8FE
+
 🛠️ Skillsets -
 HTML
 CSS
